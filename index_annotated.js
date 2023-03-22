@@ -12,7 +12,7 @@ At its height, this program controlled 25 user accounts simultaneously while als
 I don't use this anymore because not only does it not make the game fun to play anymore (when you're filthy rich, you have no more purpose to play it) but it is also very unfair to the other players that play this game.
 Thus, its wildly outdated (last edit was 3 years ago) and doesnt work anymore. Running this will also probably throw errors because I did not include login details for my accounts.
 
-I know its a 18000+ character long file (which is not best practice looking back 3 years down the road) so please bear with me. I'll try to annotate what each function does along the way.
+I know its a 1800+ character long file (which is not best practice looking back 3 years down the road) so please bear with me. I'll try to annotate what each function does along the way.
 
 Thats the main part of my intro. Here's a brief rundown of the environment this script operates in:
 
